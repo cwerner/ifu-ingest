@@ -1,0 +1,5 @@
+netcdf4
+-e git://github.com/xarray-contrib/pint-xarray#egg=pint-xarray
+pyaml
+xarray
+
