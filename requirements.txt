@@ -1,4 +1,5 @@
 netcdf4
+loguru
 -e git://github.com/xarray-contrib/pint-xarray#egg=pint-xarray
 pyaml
 xarray
