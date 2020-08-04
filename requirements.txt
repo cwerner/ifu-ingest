@@ -1,6 +1,7 @@
 netcdf4
 loguru
 -e git://github.com/xarray-contrib/pint-xarray#egg=pint-xarray
-pyaml
+# replace this later with ruyaml fork
+ruamel.yaml
 xarray
 
